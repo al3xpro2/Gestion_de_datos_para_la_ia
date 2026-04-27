@@ -1,8 +1,8 @@
 # Pipeline de Ingesta de Datos: Mercado Laboral Tecnológico 📊
 
 **Institución:** Duoc UC  
-**Asignatura:** IA Ética y Social (Sección 001V)  
-**Integrantes:** Alejandro González y Cristóbal Godoy  
+**Asignatura:** Gestion de Dato para la IA (Sección 001V)  
+**Integrantes:** Alejandro González , Cristóbal Godoy , Jean Gordóniz y Leonel Toro 
 **Fecha de entrega:** Miércoles 29 de abril de 2026
 
 ## Descripción del Proyecto
